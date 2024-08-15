@@ -15,7 +15,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/hangman-tkinter.git
+git clone https://github.com/duarizwan25/hangman-tkinter.git
 Navigate to the project directory:
 bash
 Copy code
